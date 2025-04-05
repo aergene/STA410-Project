@@ -6,7 +6,7 @@ This tool estimates missing values in numeric tabular datasets by modeling each 
 
 ---
 
-## 🔧 Features
+## Features
 
 - Bayesian imputation using normal priors and MCMC sampling.
 - Handles missing values in numeric (continuous) columns.
@@ -15,7 +15,7 @@ This tool estimates missing values in numeric tabular datasets by modeling each 
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone this repo and install dependencies:
 
